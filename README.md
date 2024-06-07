@@ -1,4 +1,5 @@
 # Interactive Portfolio
+Crafted with HTML, CSS, and JavaScript, it's a showcase of my skills and projects.
 
 ## Video Demonstration
 
